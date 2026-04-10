@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApiEstoque.Tests/ApiEstoque.Tests.csproj" Id="3c0d8dd2-11fe-47e9-94d1-19d14b080d4c" />
+  <Project Path="ApiEstoque/ApiEstoque.csproj" />
+</Solution>
